@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @zumayamx
+# 👋 Hi, I’m José Manuel
 
 - 👀 **Interests**: I'm passionate about cloud computing and exploring its endless possibilities.
 - 🌱 **Currently learning**: JavaScript, Node.js, Python, Git, and operating systems.
